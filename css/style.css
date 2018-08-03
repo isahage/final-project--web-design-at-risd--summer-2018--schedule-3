@@ -63,3 +63,23 @@ nav {
   margin-left: 200px;
   text-decoration: none;
 }
+
+li a {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  color: white;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  text-decoration: none;
+}
+li a:hover {
+  text-shadow:2px 2px 1px;
+  color:rgb(255,148,98);
+  transition: 500ms;
+}
+li {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  color: white;
+}
