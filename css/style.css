@@ -126,6 +126,20 @@ p-first-child {
   margin-right: 0px;
   margin-top: 20px;
 }
+footer {
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 90px;
+  text-align: center;
+  color: rgb(75, 13, 141);
+  margin-top: 320px;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-decoration: none;
+}
+footer a{
+  text-decoration: none;
+}
 .item {
    position: relative;
    width: 100%;
