@@ -126,3 +126,61 @@ p-first-child {
   margin-right: 0px;
   margin-top: 20px;
 }
+.item {
+   position: relative;
+   width: 100%;
+   line-height: 0;
+}
+
+.item--image {
+   width: 55%;
+   margin-left: 300px;
+   margin-top:50px;
+}
+
+.item--heading {
+   margin-top: -632px;
+   text-align: right;
+   margin-right: 272px;
+   line-height: 1.2;
+}
+
+.item--caption {
+   bottom: 24px;
+   left: 0;
+   line-height: 1;
+   margin-left: 734px;
+   margin-top: 0px;
+}
+
+.item {
+   position: relative;
+   width: 100%;
+   line-height: 0;
+}
+
+.item-2--image {
+   width: 55%;
+   margin-left: 50px;
+   margin-top:30px;
+}
+.item-3--image {
+   width: 55%;
+   margin-left: 300px;
+   margin-top:30px;
+}
+.item-4--image {
+   width: 55%;
+   margin-left: 50px;
+   margin-top:30px;
+}
+.item-5--image {
+   width: 55%;
+   margin-left: 300px;
+   margin-top:30px;
+}
+.item-6--image {
+   width: 55%;
+   margin-left: 50px;
+   margin-top:30px;
+}
