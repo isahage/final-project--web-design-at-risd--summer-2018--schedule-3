@@ -54,3 +54,12 @@ p {
   margin-left: 100px;
   margin-right: 50px;
 }
+nav {
+  width: 900px;
+  height: 50px;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  margin-left: 200px;
+  text-decoration: none;
+}
