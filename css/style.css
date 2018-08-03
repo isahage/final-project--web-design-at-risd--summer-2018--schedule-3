@@ -83,3 +83,32 @@ li {
   font-size: 30px;
   color: white;
 }
+nav ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  color: white;
+}
+nav ul> li:hover {
+  text-shadow:2px 2px 1px;
+  color:rgb(255,148,98);
+  transition: 500ms;
+}
+nav ul > li {
+  float: left;
+  width: 250px;
+  position: relative;
+}
+nav ul > li:hover > ul {
+  visibility: visible;
+}
+nav ul > li > ul {
+  visibility: hidden;
+  left: 0;
+}
+nav ul > li > ul a {
+  line-height: 60px;
+  height: 48px;
+}
